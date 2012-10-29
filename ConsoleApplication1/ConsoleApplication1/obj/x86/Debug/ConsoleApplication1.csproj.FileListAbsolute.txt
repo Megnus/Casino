@@ -1,0 +1,5 @@
+C:\Source\Lab\C-sharp\Casino\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Source\Lab\C-sharp\Casino\ConsoleApplication1\ConsoleApplication1\bin\Debug\CasinoTest.exe
+C:\Source\Lab\C-sharp\Casino\ConsoleApplication1\ConsoleApplication1\bin\Debug\CasinoTest.pdb
+C:\Source\Lab\C-sharp\Casino\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\CasinoTest.exe
+C:\Source\Lab\C-sharp\Casino\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\CasinoTest.pdb
